@@ -42,4 +42,5 @@ public class GCDTest {
     public void isNotGCDof5and3equals3(){
         assertNotEquals(3,gcd.GreatestCommonDivisor(5,3));
     }
+
 }
