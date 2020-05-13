@@ -21,10 +21,8 @@ public class App {
                 r = q - 1;
             } else {
                 p = q + 1;
-
             }
         }
-
         return -1;
     }
 }
