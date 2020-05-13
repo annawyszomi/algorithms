@@ -8,5 +8,8 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
 
+        Exercises exercises=new Exercises();
+      //  exercises.tree();
+        exercises.loops();
     }
 }
